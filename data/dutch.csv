@@ -1,0 +1,1281 @@
+Citizenship,Country,Sex,Age,Periods,number
+Afghan,Afghanistan,M,1,2007,90
+Afghan,Afghanistan,M,1,2008,205
+Afghan,Afghanistan,M,1,2009,535
+Afghan,Afghanistan,M,1,2010,480
+Afghan,Afghanistan,M,1,2011,630
+Afghan,Afghanistan,M,1,2012,365
+Afghan,Afghanistan,M,1,2013,260
+Afghan,Afghanistan,M,1,2014,155
+Afghan,Afghanistan,M,2,2007,250
+Afghan,Afghanistan,M,2,2008,275
+Afghan,Afghanistan,M,2,2009,475
+Afghan,Afghanistan,M,2,2010,585
+Afghan,Afghanistan,M,2,2011,970
+Afghan,Afghanistan,M,2,2012,710
+Afghan,Afghanistan,M,2,2013,670
+Afghan,Afghanistan,M,2,2014,415
+Afghan,Afghanistan,F,1,2007,70
+Afghan,Afghanistan,F,1,2008,75
+Afghan,Afghanistan,F,1,2009,160
+Afghan,Afghanistan,F,1,2010,220
+Afghan,Afghanistan,F,1,2011,335
+Afghan,Afghanistan,F,1,2012,180
+Afghan,Afghanistan,F,1,2013,165
+Afghan,Afghanistan,F,1,2014,110
+Afghan,Afghanistan,F,2,2007,110
+Afghan,Afghanistan,F,2,2008,150
+Afghan,Afghanistan,F,2,2009,230
+Afghan,Afghanistan,F,2,2010,300
+Afghan,Afghanistan,F,2,2011,460
+Afghan,Afghanistan,F,2,2012,310
+Afghan,Afghanistan,F,2,2013,270
+Afghan,Afghanistan,F,2,2014,205
+Albanian,Albania,M,1,2007,0
+Albanian,Albania,M,1,2008,0
+Albanian,Albania,M,1,2009,5
+Albanian,Albania,M,1,2010,0
+Albanian,Albania,M,1,2011,5
+Albanian,Albania,M,1,2012,0
+Albanian,Albania,M,1,2013,5
+Albanian,Albania,M,1,2014,10
+Albanian,Albania,M,2,2007,10
+Albanian,Albania,M,2,2008,10
+Albanian,Albania,M,2,2009,10
+Albanian,Albania,M,2,2010,10
+Albanian,Albania,M,2,2011,20
+Albanian,Albania,M,2,2012,15
+Albanian,Albania,M,2,2013,25
+Albanian,Albania,M,2,2014,55
+Albanian,Albania,F,1,2007,0
+Albanian,Albania,F,1,2008,0
+Albanian,Albania,F,1,2009,0
+Albanian,Albania,F,1,2010,0
+Albanian,Albania,F,1,2011,0
+Albanian,Albania,F,1,2012,0
+Albanian,Albania,F,1,2013,0
+Albanian,Albania,F,1,2014,10
+Albanian,Albania,F,2,2007,0
+Albanian,Albania,F,2,2008,0
+Albanian,Albania,F,2,2009,5
+Albanian,Albania,F,2,2010,5
+Albanian,Albania,F,2,2011,5
+Albanian,Albania,F,2,2012,0
+Albanian,Albania,F,2,2013,5
+Albanian,Albania,F,2,2014,20
+Armenian,Armenia,M,1,2007,20
+Armenian,Armenia,M,1,2008,50
+Armenian,Armenia,M,1,2009,60
+Armenian,Armenia,M,1,2010,110
+Armenian,Armenia,M,1,2011,100
+Armenian,Armenia,M,1,2012,40
+Armenian,Armenia,M,1,2013,40
+Armenian,Armenia,M,1,2014,35
+Armenian,Armenia,M,2,2007,70
+Armenian,Armenia,M,2,2008,80
+Armenian,Armenia,M,2,2009,130
+Armenian,Armenia,M,2,2010,225
+Armenian,Armenia,M,2,2011,215
+Armenian,Armenia,M,2,2012,135
+Armenian,Armenia,M,2,2013,90
+Armenian,Armenia,M,2,2014,85
+Armenian,Armenia,F,1,2007,20
+Armenian,Armenia,F,1,2008,20
+Armenian,Armenia,F,1,2009,40
+Armenian,Armenia,F,1,2010,80
+Armenian,Armenia,F,1,2011,50
+Armenian,Armenia,F,1,2012,25
+Armenian,Armenia,F,1,2013,40
+Armenian,Armenia,F,1,2014,20
+Armenian,Armenia,F,2,2007,45
+Armenian,Armenia,F,2,2008,90
+Armenian,Armenia,F,2,2009,140
+Armenian,Armenia,F,2,2010,235
+Armenian,Armenia,F,2,2011,210
+Armenian,Armenia,F,2,2012,105
+Armenian,Armenia,F,2,2013,95
+Armenian,Armenia,F,2,2014,70
+Azerbaijani,Azerbaijan,M,1,2007,10
+Azerbaijani,Azerbaijan,M,1,2008,15
+Azerbaijani,Azerbaijan,M,1,2009,20
+Azerbaijani,Azerbaijan,M,1,2010,20
+Azerbaijani,Azerbaijan,M,1,2011,25
+Azerbaijani,Azerbaijan,M,1,2012,15
+Azerbaijani,Azerbaijan,M,1,2013,10
+Azerbaijani,Azerbaijan,M,1,2014,15
+Azerbaijani,Azerbaijan,M,2,2007,30
+Azerbaijani,Azerbaijan,M,2,2008,45
+Azerbaijani,Azerbaijan,M,2,2009,60
+Azerbaijani,Azerbaijan,M,2,2010,45
+Azerbaijani,Azerbaijan,M,2,2011,60
+Azerbaijani,Azerbaijan,M,2,2012,40
+Azerbaijani,Azerbaijan,M,2,2013,45
+Azerbaijani,Azerbaijan,M,2,2014,25
+Azerbaijani,Azerbaijan,F,1,2007,10
+Azerbaijani,Azerbaijan,F,1,2008,20
+Azerbaijani,Azerbaijan,F,1,2009,15
+Azerbaijani,Azerbaijan,F,1,2010,10
+Azerbaijani,Azerbaijan,F,1,2011,15
+Azerbaijani,Azerbaijan,F,1,2012,10
+Azerbaijani,Azerbaijan,F,1,2013,10
+Azerbaijani,Azerbaijan,F,1,2014,15
+Azerbaijani,Azerbaijan,F,2,2007,30
+Azerbaijani,Azerbaijan,F,2,2008,30
+Azerbaijani,Azerbaijan,F,2,2009,45
+Azerbaijani,Azerbaijan,F,2,2010,35
+Azerbaijani,Azerbaijan,F,2,2011,50
+Azerbaijani,Azerbaijan,F,2,2012,30
+Azerbaijani,Azerbaijan,F,2,2013,30
+Azerbaijani,Azerbaijan,F,2,2014,25
+Bosnian,Bosnia,M,1,2007,5
+Bosnian,Bosnia,M,1,2008,0
+Bosnian,Bosnia,M,1,2009,0
+Bosnian,Bosnia,M,1,2010,0
+Bosnian,Bosnia,M,1,2011,0
+Bosnian,Bosnia,M,1,2012,15
+Bosnian,Bosnia,M,1,2013,20
+Bosnian,Bosnia,M,1,2014,25
+Bosnian,Bosnia,M,2,2007,10
+Bosnian,Bosnia,M,2,2008,5
+Bosnian,Bosnia,M,2,2009,10
+Bosnian,Bosnia,M,2,2010,10
+Bosnian,Bosnia,M,2,2011,20
+Bosnian,Bosnia,M,2,2012,25
+Bosnian,Bosnia,M,2,2013,30
+Bosnian,Bosnia,M,2,2014,50
+Bosnian,Bosnia,F,1,2007,5
+Bosnian,Bosnia,F,1,2008,5
+Bosnian,Bosnia,F,1,2009,5
+Bosnian,Bosnia,F,1,2010,0
+Bosnian,Bosnia,F,1,2011,0
+Bosnian,Bosnia,F,1,2012,15
+Bosnian,Bosnia,F,1,2013,15
+Bosnian,Bosnia,F,1,2014,20
+Bosnian,Bosnia,F,2,2007,5
+Bosnian,Bosnia,F,2,2008,0
+Bosnian,Bosnia,F,2,2009,5
+Bosnian,Bosnia,F,2,2010,0
+Bosnian,Bosnia,F,2,2011,5
+Bosnian,Bosnia,F,2,2012,15
+Bosnian,Bosnia,F,2,2013,20
+Bosnian,Bosnia,F,2,2014,30
+Burundian,Burundi,M,1,2007,40
+Burundian,Burundi,M,1,2008,25
+Burundian,Burundi,M,1,2009,20
+Burundian,Burundi,M,1,2010,10
+Burundian,Burundi,M,1,2011,0
+Burundian,Burundi,M,1,2012,0
+Burundian,Burundi,M,1,2013,5
+Burundian,Burundi,M,1,2014,5
+Burundian,Burundi,M,2,2007,45
+Burundian,Burundi,M,2,2008,65
+Burundian,Burundi,M,2,2009,30
+Burundian,Burundi,M,2,2010,30
+Burundian,Burundi,M,2,2011,20
+Burundian,Burundi,M,2,2012,20
+Burundian,Burundi,M,2,2013,5
+Burundian,Burundi,M,2,2014,10
+Burundian,Burundi,F,1,2007,35
+Burundian,Burundi,F,1,2008,25
+Burundian,Burundi,F,1,2009,15
+Burundian,Burundi,F,1,2010,5
+Burundian,Burundi,F,1,2011,0
+Burundian,Burundi,F,1,2012,0
+Burundian,Burundi,F,1,2013,5
+Burundian,Burundi,F,1,2014,0
+Burundian,Burundi,F,2,2007,45
+Burundian,Burundi,F,2,2008,40
+Burundian,Burundi,F,2,2009,25
+Burundian,Burundi,F,2,2010,15
+Burundian,Burundi,F,2,2011,10
+Burundian,Burundi,F,2,2012,5
+Burundian,Burundi,F,2,2013,5
+Burundian,Burundi,F,2,2014,5
+Chinese,China,M,1,2007,35
+Chinese,China,M,1,2008,45
+Chinese,China,M,1,2009,25
+Chinese,China,M,1,2010,40
+Chinese,China,M,1,2011,30
+Chinese,China,M,1,2012,15
+Chinese,China,M,1,2013,10
+Chinese,China,M,1,2014,10
+Chinese,China,M,2,2007,135
+Chinese,China,M,2,2008,365
+Chinese,China,M,2,2009,155
+Chinese,China,M,2,2010,160
+Chinese,China,M,2,2011,150
+Chinese,China,M,2,2012,115
+Chinese,China,M,2,2013,65
+Chinese,China,M,2,2014,45
+Chinese,China,F,1,2007,35
+Chinese,China,F,1,2008,35
+Chinese,China,F,1,2009,30
+Chinese,China,F,1,2010,10
+Chinese,China,F,1,2011,30
+Chinese,China,F,1,2012,15
+Chinese,China,F,1,2013,10
+Chinese,China,F,1,2014,5
+Chinese,China,F,2,2007,70
+Chinese,China,F,2,2008,155
+Chinese,China,F,2,2009,130
+Chinese,China,F,2,2010,110
+Chinese,China,F,2,2011,105
+Chinese,China,F,2,2012,70
+Chinese,China,F,2,2013,60
+Chinese,China,F,2,2014,50
+Congolese,Congo,M,1,2007,15
+Congolese,Congo,M,1,2008,15
+Congolese,Congo,M,1,2009,10
+Congolese,Congo,M,1,2010,15
+Congolese,Congo,M,1,2011,5
+Congolese,Congo,M,1,2012,20
+Congolese,Congo,M,1,2013,5
+Congolese,Congo,M,1,2014,5
+Congolese,Congo,M,2,2007,30
+Congolese,Congo,M,2,2008,35
+Congolese,Congo,M,2,2009,40
+Congolese,Congo,M,2,2010,50
+Congolese,Congo,M,2,2011,50
+Congolese,Congo,M,2,2012,55
+Congolese,Congo,M,2,2013,45
+Congolese,Congo,M,2,2014,40
+Congolese,Congo,F,1,2007,15
+Congolese,Congo,F,1,2008,10
+Congolese,Congo,F,1,2009,10
+Congolese,Congo,F,1,2010,20
+Congolese,Congo,F,1,2011,5
+Congolese,Congo,F,1,2012,20
+Congolese,Congo,F,1,2013,15
+Congolese,Congo,F,1,2014,10
+Congolese,Congo,F,2,2007,30
+Congolese,Congo,F,2,2008,35
+Congolese,Congo,F,2,2009,35
+Congolese,Congo,F,2,2010,50
+Congolese,Congo,F,2,2011,35
+Congolese,Congo,F,2,2012,50
+Congolese,Congo,F,2,2013,30
+Congolese,Congo,F,2,2014,35
+Egyptian,Egypt,M,1,2007,0
+Egyptian,Egypt,M,1,2008,5
+Egyptian,Egypt,M,1,2009,5
+Egyptian,Egypt,M,1,2010,5
+Egyptian,Egypt,M,1,2011,5
+Egyptian,Egypt,M,1,2012,20
+Egyptian,Egypt,M,1,2013,25
+Egyptian,Egypt,M,1,2014,0
+Egyptian,Egypt,M,2,2007,10
+Egyptian,Egypt,M,2,2008,15
+Egyptian,Egypt,M,2,2009,35
+Egyptian,Egypt,M,2,2010,35
+Egyptian,Egypt,M,2,2011,50
+Egyptian,Egypt,M,2,2012,135
+Egyptian,Egypt,M,2,2013,150
+Egyptian,Egypt,M,2,2014,95
+Egyptian,Egypt,F,1,2007,0
+Egyptian,Egypt,F,1,2008,5
+Egyptian,Egypt,F,1,2009,5
+Egyptian,Egypt,F,1,2010,5
+Egyptian,Egypt,F,1,2011,10
+Egyptian,Egypt,F,1,2012,20
+Egyptian,Egypt,F,1,2013,20
+Egyptian,Egypt,F,1,2014,10
+Egyptian,Egypt,F,2,2007,0
+Egyptian,Egypt,F,2,2008,5
+Egyptian,Egypt,F,2,2009,10
+Egyptian,Egypt,F,2,2010,5
+Egyptian,Egypt,F,2,2011,15
+Egyptian,Egypt,F,2,2012,30
+Egyptian,Egypt,F,2,2013,35
+Egyptian,Egypt,F,2,2014,25
+Eritrean,Eritrea,M,1,2007,15
+Eritrean,Eritrea,M,1,2008,30
+Eritrean,Eritrea,M,1,2009,40
+Eritrean,Eritrea,M,1,2010,35
+Eritrean,Eritrea,M,1,2011,30
+Eritrean,Eritrea,M,1,2012,35
+Eritrean,Eritrea,M,1,2013,80
+Eritrean,Eritrea,M,1,2014,580
+Eritrean,Eritrea,M,2,2007,80
+Eritrean,Eritrea,M,2,2008,105
+Eritrean,Eritrea,M,2,2009,310
+Eritrean,Eritrea,M,2,2010,195
+Eritrean,Eritrea,M,2,2011,230
+Eritrean,Eritrea,M,2,2012,185
+Eritrean,Eritrea,M,2,2013,540
+Eritrean,Eritrea,M,2,2014,2395
+Eritrean,Eritrea,F,1,2007,20
+Eritrean,Eritrea,F,1,2008,20
+Eritrean,Eritrea,F,1,2009,25
+Eritrean,Eritrea,F,1,2010,35
+Eritrean,Eritrea,F,1,2011,35
+Eritrean,Eritrea,F,1,2012,35
+Eritrean,Eritrea,F,1,2013,35
+Eritrean,Eritrea,F,1,2014,195
+Eritrean,Eritrea,F,2,2007,65
+Eritrean,Eritrea,F,2,2008,100
+Eritrean,Eritrea,F,2,2009,110
+Eritrean,Eritrea,F,2,2010,145
+Eritrean,Eritrea,F,2,2011,205
+Eritrean,Eritrea,F,2,2012,215
+Eritrean,Eritrea,F,2,2013,265
+Eritrean,Eritrea,F,2,2014,740
+Ethiopian,Ethiopia,M,1,2007,0
+Ethiopian,Ethiopia,M,1,2008,5
+Ethiopian,Ethiopia,M,1,2009,15
+Ethiopian,Ethiopia,M,1,2010,15
+Ethiopian,Ethiopia,M,1,2011,10
+Ethiopian,Ethiopia,M,1,2012,5
+Ethiopian,Ethiopia,M,1,2013,10
+Ethiopian,Ethiopia,M,1,2014,15
+Ethiopian,Ethiopia,M,2,2007,40
+Ethiopian,Ethiopia,M,2,2008,35
+Ethiopian,Ethiopia,M,2,2009,55
+Ethiopian,Ethiopia,M,2,2010,40
+Ethiopian,Ethiopia,M,2,2011,50
+Ethiopian,Ethiopia,M,2,2012,40
+Ethiopian,Ethiopia,M,2,2013,40
+Ethiopian,Ethiopia,M,2,2014,75
+Ethiopian,Ethiopia,F,1,2007,5
+Ethiopian,Ethiopia,F,1,2008,10
+Ethiopian,Ethiopia,F,1,2009,10
+Ethiopian,Ethiopia,F,1,2010,5
+Ethiopian,Ethiopia,F,1,2011,5
+Ethiopian,Ethiopia,F,1,2012,5
+Ethiopian,Ethiopia,F,1,2013,5
+Ethiopian,Ethiopia,F,1,2014,5
+Ethiopian,Ethiopia,F,2,2007,20
+Ethiopian,Ethiopia,F,2,2008,20
+Ethiopian,Ethiopia,F,2,2009,20
+Ethiopian,Ethiopia,F,2,2010,25
+Ethiopian,Ethiopia,F,2,2011,30
+Ethiopian,Ethiopia,F,2,2012,30
+Ethiopian,Ethiopia,F,2,2013,30
+Ethiopian,Ethiopia,F,2,2014,30
+Georgian,Georgia,M,1,2007,5
+Georgian,Georgia,M,1,2008,5
+Georgian,Georgia,M,1,2009,40
+Georgian,Georgia,M,1,2010,90
+Georgian,Georgia,M,1,2011,20
+Georgian,Georgia,M,1,2012,15
+Georgian,Georgia,M,1,2013,15
+Georgian,Georgia,M,1,2014,20
+Georgian,Georgia,M,2,2007,60
+Georgian,Georgia,M,2,2008,55
+Georgian,Georgia,M,2,2009,300
+Georgian,Georgia,M,2,2010,320
+Georgian,Georgia,M,2,2011,165
+Georgian,Georgia,M,2,2012,185
+Georgian,Georgia,M,2,2013,175
+Georgian,Georgia,M,2,2014,270
+Georgian,Georgia,F,1,2007,0
+Georgian,Georgia,F,1,2008,0
+Georgian,Georgia,F,1,2009,25
+Georgian,Georgia,F,1,2010,75
+Georgian,Georgia,F,1,2011,10
+Georgian,Georgia,F,1,2012,15
+Georgian,Georgia,F,1,2013,5
+Georgian,Georgia,F,1,2014,10
+Georgian,Georgia,F,2,2007,10
+Georgian,Georgia,F,2,2008,15
+Georgian,Georgia,F,2,2009,65
+Georgian,Georgia,F,2,2010,130
+Georgian,Georgia,F,2,2011,35
+Georgian,Georgia,F,2,2012,35
+Georgian,Georgia,F,2,2013,20
+Georgian,Georgia,F,2,2014,35
+Guinean,Guinea,M,1,2007,35
+Guinean,Guinea,M,1,2008,20
+Guinean,Guinea,M,1,2009,40
+Guinean,Guinea,M,1,2010,30
+Guinean,Guinea,M,1,2011,25
+Guinean,Guinea,M,1,2012,45
+Guinean,Guinea,M,1,2013,30
+Guinean,Guinea,M,1,2014,15
+Guinean,Guinea,M,2,2007,140
+Guinean,Guinea,M,2,2008,95
+Guinean,Guinea,M,2,2009,125
+Guinean,Guinea,M,2,2010,110
+Guinean,Guinea,M,2,2011,95
+Guinean,Guinea,M,2,2012,85
+Guinean,Guinea,M,2,2013,70
+Guinean,Guinea,M,2,2014,35
+Guinean,Guinea,F,1,2007,20
+Guinean,Guinea,F,1,2008,30
+Guinean,Guinea,F,1,2009,30
+Guinean,Guinea,F,1,2010,30
+Guinean,Guinea,F,1,2011,35
+Guinean,Guinea,F,1,2012,35
+Guinean,Guinea,F,1,2013,20
+Guinean,Guinea,F,1,2014,15
+Guinean,Guinea,F,2,2007,60
+Guinean,Guinea,F,2,2008,50
+Guinean,Guinea,F,2,2009,70
+Guinean,Guinea,F,2,2010,80
+Guinean,Guinea,F,2,2011,95
+Guinean,Guinea,F,2,2012,70
+Guinean,Guinea,F,2,2013,65
+Guinean,Guinea,F,2,2014,55
+Indian,India,M,1,2007,40
+Indian,India,M,1,2008,15
+Indian,India,M,1,2009,5
+Indian,India,M,1,2010,0
+Indian,India,M,1,2011,0
+Indian,India,M,1,2012,0
+Indian,India,M,1,2013,0
+Indian,India,M,1,2014,5
+Indian,India,M,2,2007,40
+Indian,India,M,2,2008,30
+Indian,India,M,2,2009,25
+Indian,India,M,2,2010,15
+Indian,India,M,2,2011,25
+Indian,India,M,2,2012,15
+Indian,India,M,2,2013,10
+Indian,India,M,2,2014,15
+Indian,India,F,1,2007,0
+Indian,India,F,1,2008,5
+Indian,India,F,1,2009,0
+Indian,India,F,1,2010,0
+Indian,India,F,1,2011,0
+Indian,India,F,1,2012,0
+Indian,India,F,1,2013,0
+Indian,India,F,1,2014,0
+Indian,India,F,2,2007,0
+Indian,India,F,2,2008,5
+Indian,India,F,2,2009,0
+Indian,India,F,2,2010,0
+Indian,India,F,2,2011,0
+Indian,India,F,2,2012,0
+Indian,India,F,2,2013,5
+Indian,India,F,2,2014,0
+Iraqi,Iraq,M,1,2007,255
+Iraqi,Iraq,M,1,2008,730
+Iraqi,Iraq,M,1,2009,385
+Iraqi,Iraq,M,1,2010,255
+Iraqi,Iraq,M,1,2011,205
+Iraqi,Iraq,M,1,2012,225
+Iraqi,Iraq,M,1,2013,80
+Iraqi,Iraq,M,1,2014,120
+Iraqi,Iraq,M,2,2007,1490
+Iraqi,Iraq,M,2,2008,3195
+Iraqi,Iraq,M,2,2009,1010
+Iraqi,Iraq,M,2,2010,970
+Iraqi,Iraq,M,2,2011,1105
+Iraqi,Iraq,M,2,2012,845
+Iraqi,Iraq,M,2,2013,585
+Iraqi,Iraq,M,2,2014,830
+Iraqi,Iraq,F,1,2007,205
+Iraqi,Iraq,F,1,2008,475
+Iraqi,Iraq,F,1,2009,265
+Iraqi,Iraq,F,1,2010,245
+Iraqi,Iraq,F,1,2011,170
+Iraqi,Iraq,F,1,2012,205
+Iraqi,Iraq,F,1,2013,55
+Iraqi,Iraq,F,1,2014,90
+Iraqi,Iraq,F,2,2007,495
+Iraqi,Iraq,F,2,2008,915
+Iraqi,Iraq,F,2,2009,500
+Iraqi,Iraq,F,2,2010,435
+Iraqi,Iraq,F,2,2011,525
+Iraqi,Iraq,F,2,2012,505
+Iraqi,Iraq,F,2,2013,235
+Iraqi,Iraq,F,2,2014,280
+Iranian,Iran,M,1,2007,30
+Iranian,Iran,M,1,2008,35
+Iranian,Iran,M,1,2009,65
+Iranian,Iran,M,1,2010,80
+Iranian,Iran,M,1,2011,110
+Iranian,Iran,M,1,2012,100
+Iranian,Iran,M,1,2013,95
+Iranian,Iran,M,1,2014,55
+Iranian,Iran,M,2,2007,230
+Iranian,Iran,M,2,2008,245
+Iranian,Iran,M,2,2009,335
+Iranian,Iran,M,2,2010,450
+Iranian,Iran,M,2,2011,635
+Iranian,Iran,M,2,2012,595
+Iranian,Iran,M,2,2013,510
+Iranian,Iran,M,2,2014,350
+Iranian,Iran,F,1,2007,25
+Iranian,Iran,F,1,2008,30
+Iranian,Iran,F,1,2009,45
+Iranian,Iran,F,1,2010,65
+Iranian,Iran,F,1,2011,85
+Iranian,Iran,F,1,2012,95
+Iranian,Iran,F,1,2013,70
+Iranian,Iran,F,1,2014,45
+Iranian,Iran,F,2,2007,75
+Iranian,Iran,F,2,2008,110
+Iranian,Iran,F,2,2009,140
+Iranian,Iran,F,2,2010,270
+Iranian,Iran,F,2,2011,355
+Iranian,Iran,F,2,2012,370
+Iranian,Iran,F,2,2013,345
+Iranian,Iran,F,2,2014,220
+Ivorian,"Ivory Coast",M,1,2007,25
+Ivorian,"Ivory Coast",M,1,2008,10
+Ivorian,"Ivory Coast",M,1,2009,10
+Ivorian,"Ivory Coast",M,1,2010,15
+Ivorian,"Ivory Coast",M,1,2011,10
+Ivorian,"Ivory Coast",M,1,2012,10
+Ivorian,"Ivory Coast",M,1,2013,5
+Ivorian,"Ivory Coast",M,1,2014,5
+Ivorian,"Ivory Coast",M,2,2007,45
+Ivorian,"Ivory Coast",M,2,2008,45
+Ivorian,"Ivory Coast",M,2,2009,80
+Ivorian,"Ivory Coast",M,2,2010,120
+Ivorian,"Ivory Coast",M,2,2011,95
+Ivorian,"Ivory Coast",M,2,2012,45
+Ivorian,"Ivory Coast",M,2,2013,30
+Ivorian,"Ivory Coast",M,2,2014,25
+Ivorian,"Ivory Coast",F,1,2007,20
+Ivorian,"Ivory Coast",F,1,2008,15
+Ivorian,"Ivory Coast",F,1,2009,10
+Ivorian,"Ivory Coast",F,1,2010,10
+Ivorian,"Ivory Coast",F,1,2011,5
+Ivorian,"Ivory Coast",F,1,2012,5
+Ivorian,"Ivory Coast",F,1,2013,5
+Ivorian,"Ivory Coast",F,1,2014,0
+Ivorian,"Ivory Coast",F,2,2007,35
+Ivorian,"Ivory Coast",F,2,2008,20
+Ivorian,"Ivory Coast",F,2,2009,15
+Ivorian,"Ivory Coast",F,2,2010,30
+Ivorian,"Ivory Coast",F,2,2011,20
+Ivorian,"Ivory Coast",F,2,2012,20
+Ivorian,"Ivory Coast",F,2,2013,10
+Ivorian,"Ivory Coast",F,2,2014,5
+Cameroonian,Cameroon,M,1,2007,5
+Cameroonian,Cameroon,M,1,2008,5
+Cameroonian,Cameroon,M,1,2009,5
+Cameroonian,Cameroon,M,1,2010,5
+Cameroonian,Cameroon,M,1,2011,0
+Cameroonian,Cameroon,M,1,2012,0
+Cameroonian,Cameroon,M,1,2013,0
+Cameroonian,Cameroon,M,1,2014,5
+Cameroonian,Cameroon,M,2,2007,20
+Cameroonian,Cameroon,M,2,2008,30
+Cameroonian,Cameroon,M,2,2009,15
+Cameroonian,Cameroon,M,2,2010,25
+Cameroonian,Cameroon,M,2,2011,15
+Cameroonian,Cameroon,M,2,2012,30
+Cameroonian,Cameroon,M,2,2013,20
+Cameroonian,Cameroon,M,2,2014,25
+Cameroonian,Cameroon,F,1,2007,10
+Cameroonian,Cameroon,F,1,2008,5
+Cameroonian,Cameroon,F,1,2009,5
+Cameroonian,Cameroon,F,1,2010,5
+Cameroonian,Cameroon,F,1,2011,0
+Cameroonian,Cameroon,F,1,2012,0
+Cameroonian,Cameroon,F,1,2013,0
+Cameroonian,Cameroon,F,1,2014,0
+Cameroonian,Cameroon,F,2,2007,15
+Cameroonian,Cameroon,F,2,2008,15
+Cameroonian,Cameroon,F,2,2009,10
+Cameroonian,Cameroon,F,2,2010,15
+Cameroonian,Cameroon,F,2,2011,5
+Cameroonian,Cameroon,F,2,2012,10
+Cameroonian,Cameroon,F,2,2013,5
+Cameroonian,Cameroon,F,2,2014,5
+Kosovar,Kosovo,M,1,2007,0
+Kosovar,Kosovo,M,1,2008,0
+Kosovar,Kosovo,M,1,2009,10
+Kosovar,Kosovo,M,1,2010,15
+Kosovar,Kosovo,M,1,2011,0
+Kosovar,Kosovo,M,1,2012,10
+Kosovar,Kosovo,M,1,2013,10
+Kosovar,Kosovo,M,1,2014,10
+Kosovar,Kosovo,M,2,2007,0
+Kosovar,Kosovo,M,2,2008,0
+Kosovar,Kosovo,M,2,2009,15
+Kosovar,Kosovo,M,2,2010,15
+Kosovar,Kosovo,M,2,2011,15
+Kosovar,Kosovo,M,2,2012,15
+Kosovar,Kosovo,M,2,2013,20
+Kosovar,Kosovo,M,2,2014,35
+Kosovar,Kosovo,F,1,2007,0
+Kosovar,Kosovo,F,1,2008,0
+Kosovar,Kosovo,F,1,2009,10
+Kosovar,Kosovo,F,1,2010,10
+Kosovar,Kosovo,F,1,2011,5
+Kosovar,Kosovo,F,1,2012,5
+Kosovar,Kosovo,F,1,2013,10
+Kosovar,Kosovo,F,1,2014,5
+Kosovar,Kosovo,F,2,2007,0
+Kosovar,Kosovo,F,2,2008,0
+Kosovar,Kosovo,F,2,2009,10
+Kosovar,Kosovo,F,2,2010,20
+Kosovar,Kosovo,F,2,2011,5
+Kosovar,Kosovo,F,2,2012,10
+Kosovar,Kosovo,F,2,2013,10
+Kosovar,Kosovo,F,2,2014,10
+Libyan,Libya,M,1,2007,5
+Libyan,Libya,M,1,2008,5
+Libyan,Libya,M,1,2009,15
+Libyan,Libya,M,1,2010,5
+Libyan,Libya,M,1,2011,15
+Libyan,Libya,M,1,2012,10
+Libyan,Libya,M,1,2013,10
+Libyan,Libya,M,1,2014,5
+Libyan,Libya,M,2,2007,30
+Libyan,Libya,M,2,2008,65
+Libyan,Libya,M,2,2009,80
+Libyan,Libya,M,2,2010,150
+Libyan,Libya,M,2,2011,115
+Libyan,Libya,M,2,2012,75
+Libyan,Libya,M,2,2013,140
+Libyan,Libya,M,2,2014,125
+Libyan,Libya,F,1,2007,5
+Libyan,Libya,F,1,2008,5
+Libyan,Libya,F,1,2009,10
+Libyan,Libya,F,1,2010,10
+Libyan,Libya,F,1,2011,5
+Libyan,Libya,F,1,2012,5
+Libyan,Libya,F,1,2013,5
+Libyan,Libya,F,1,2014,5
+Libyan,Libya,F,2,2007,5
+Libyan,Libya,F,2,2008,10
+Libyan,Libya,F,2,2009,10
+Libyan,Libya,F,2,2010,10
+Libyan,Libya,F,2,2011,15
+Libyan,Libya,F,2,2012,10
+Libyan,Libya,F,2,2013,10
+Libyan,Libya,F,2,2014,20
+Macedonian,Macedonia,M,1,2007,0
+Macedonian,Macedonia,M,1,2008,0
+Macedonian,Macedonia,M,1,2009,0
+Macedonian,Macedonia,M,1,2010,75
+Macedonian,Macedonia,M,1,2011,55
+Macedonian,Macedonia,M,1,2012,15
+Macedonian,Macedonia,M,1,2013,20
+Macedonian,Macedonia,M,1,2014,20
+Macedonian,Macedonia,M,2,2007,5
+Macedonian,Macedonia,M,2,2008,0
+Macedonian,Macedonia,M,2,2009,5
+Macedonian,Macedonia,M,2,2010,130
+Macedonian,Macedonia,M,2,2011,80
+Macedonian,Macedonia,M,2,2012,15
+Macedonian,Macedonia,M,2,2013,35
+Macedonian,Macedonia,M,2,2014,35
+Macedonian,Macedonia,F,1,2007,0
+Macedonian,Macedonia,F,1,2008,0
+Macedonian,Macedonia,F,1,2009,5
+Macedonian,Macedonia,F,1,2010,75
+Macedonian,Macedonia,F,1,2011,65
+Macedonian,Macedonia,F,1,2012,10
+Macedonian,Macedonia,F,1,2013,15
+Macedonian,Macedonia,F,1,2014,30
+Macedonian,Macedonia,F,2,2007,0
+Macedonian,Macedonia,F,2,2008,0
+Macedonian,Macedonia,F,2,2009,5
+Macedonian,Macedonia,F,2,2010,110
+Macedonian,Macedonia,F,2,2011,65
+Macedonian,Macedonia,F,2,2012,20
+Macedonian,Macedonia,F,2,2013,25
+Macedonian,Macedonia,F,2,2014,30
+Malian,Mali,M,1,2007,0
+Malian,Mali,M,1,2008,0
+Malian,Mali,M,1,2009,0
+Malian,Mali,M,1,2010,0
+Malian,Mali,M,1,2011,0
+Malian,Mali,M,1,2012,5
+Malian,Mali,M,1,2013,5
+Malian,Mali,M,1,2014,10
+Malian,Mali,M,2,2007,0
+Malian,Mali,M,2,2008,5
+Malian,Mali,M,2,2009,5
+Malian,Mali,M,2,2010,30
+Malian,Mali,M,2,2011,10
+Malian,Mali,M,2,2012,25
+Malian,Mali,M,2,2013,45
+Malian,Mali,M,2,2014,25
+Malian,Mali,F,1,2007,0
+Malian,Mali,F,1,2008,0
+Malian,Mali,F,1,2009,0
+Malian,Mali,F,1,2010,0
+Malian,Mali,F,1,2011,0
+Malian,Mali,F,1,2012,0
+Malian,Mali,F,1,2013,0
+Malian,Mali,F,1,2014,0
+Malian,Mali,F,2,2007,0
+Malian,Mali,F,2,2008,0
+Malian,Mali,F,2,2009,0
+Malian,Mali,F,2,2010,5
+Malian,Mali,F,2,2011,0
+Malian,Mali,F,2,2012,5
+Malian,Mali,F,2,2013,5
+Malian,Mali,F,2,2014,5
+Moroccan,Morocco,M,1,2007,0
+Moroccan,Morocco,M,1,2008,0
+Moroccan,Morocco,M,1,2009,0
+Moroccan,Morocco,M,1,2010,0
+Moroccan,Morocco,M,1,2011,5
+Moroccan,Morocco,M,1,2012,10
+Moroccan,Morocco,M,1,2013,5
+Moroccan,Morocco,M,1,2014,15
+Moroccan,Morocco,M,2,2007,10
+Moroccan,Morocco,M,2,2008,10
+Moroccan,Morocco,M,2,2009,20
+Moroccan,Morocco,M,2,2010,25
+Moroccan,Morocco,M,2,2011,15
+Moroccan,Morocco,M,2,2012,10
+Moroccan,Morocco,M,2,2013,55
+Moroccan,Morocco,M,2,2014,35
+Moroccan,Morocco,F,1,2007,0
+Moroccan,Morocco,F,1,2008,0
+Moroccan,Morocco,F,1,2009,0
+Moroccan,Morocco,F,1,2010,0
+Moroccan,Morocco,F,1,2011,0
+Moroccan,Morocco,F,1,2012,0
+Moroccan,Morocco,F,1,2013,0
+Moroccan,Morocco,F,1,2014,0
+Moroccan,Morocco,F,2,2007,0
+Moroccan,Morocco,F,2,2008,5
+Moroccan,Morocco,F,2,2009,5
+Moroccan,Morocco,F,2,2010,5
+Moroccan,Morocco,F,2,2011,5
+Moroccan,Morocco,F,2,2012,10
+Moroccan,Morocco,F,2,2013,5
+Moroccan,Morocco,F,2,2014,10
+Mongolian,Mongolia,M,1,2007,5
+Mongolian,Mongolia,M,1,2008,5
+Mongolian,Mongolia,M,1,2009,20
+Mongolian,Mongolia,M,1,2010,30
+Mongolian,Mongolia,M,1,2011,15
+Mongolian,Mongolia,M,1,2012,15
+Mongolian,Mongolia,M,1,2013,15
+Mongolian,Mongolia,M,1,2014,75
+Mongolian,Mongolia,M,2,2007,60
+Mongolian,Mongolia,M,2,2008,50
+Mongolian,Mongolia,M,2,2009,110
+Mongolian,Mongolia,M,2,2010,90
+Mongolian,Mongolia,M,2,2011,70
+Mongolian,Mongolia,M,2,2012,50
+Mongolian,Mongolia,M,2,2013,40
+Mongolian,Mongolia,M,2,2014,130
+Mongolian,Mongolia,F,1,2007,10
+Mongolian,Mongolia,F,1,2008,5
+Mongolian,Mongolia,F,1,2009,10
+Mongolian,Mongolia,F,1,2010,35
+Mongolian,Mongolia,F,1,2011,15
+Mongolian,Mongolia,F,1,2012,20
+Mongolian,Mongolia,F,1,2013,15
+Mongolian,Mongolia,F,1,2014,80
+Mongolian,Mongolia,F,2,2007,35
+Mongolian,Mongolia,F,2,2008,50
+Mongolian,Mongolia,F,2,2009,105
+Mongolian,Mongolia,F,2,2010,90
+Mongolian,Mongolia,F,2,2011,50
+Mongolian,Mongolia,F,2,2012,45
+Mongolian,Mongolia,F,2,2013,40
+Mongolian,Mongolia,F,2,2014,160
+Myanmarese,Myanmar,M,1,2007,0
+Myanmarese,Myanmar,M,1,2008,5
+Myanmarese,Myanmar,M,1,2009,5
+Myanmarese,Myanmar,M,1,2010,15
+Myanmarese,Myanmar,M,1,2011,10
+Myanmarese,Myanmar,M,1,2012,5
+Myanmarese,Myanmar,M,1,2013,5
+Myanmarese,Myanmar,M,1,2014,0
+Myanmarese,Myanmar,M,2,2007,20
+Myanmarese,Myanmar,M,2,2008,60
+Myanmarese,Myanmar,M,2,2009,55
+Myanmarese,Myanmar,M,2,2010,40
+Myanmarese,Myanmar,M,2,2011,35
+Myanmarese,Myanmar,M,2,2012,15
+Myanmarese,Myanmar,M,2,2013,20
+Myanmarese,Myanmar,M,2,2014,10
+Myanmarese,Myanmar,F,1,2007,0
+Myanmarese,Myanmar,F,1,2008,0
+Myanmarese,Myanmar,F,1,2009,5
+Myanmarese,Myanmar,F,1,2010,20
+Myanmarese,Myanmar,F,1,2011,5
+Myanmarese,Myanmar,F,1,2012,5
+Myanmarese,Myanmar,F,1,2013,0
+Myanmarese,Myanmar,F,1,2014,0
+Myanmarese,Myanmar,F,2,2007,10
+Myanmarese,Myanmar,F,2,2008,15
+Myanmarese,Myanmar,F,2,2009,20
+Myanmarese,Myanmar,F,2,2010,40
+Myanmarese,Myanmar,F,2,2011,10
+Myanmarese,Myanmar,F,2,2012,10
+Myanmarese,Myanmar,F,2,2013,10
+Myanmarese,Myanmar,F,2,2014,5
+Nepalese,Nepal,M,1,2007,5
+Nepalese,Nepal,M,1,2008,20
+Nepalese,Nepal,M,1,2009,10
+Nepalese,Nepal,M,1,2010,5
+Nepalese,Nepal,M,1,2011,15
+Nepalese,Nepal,M,1,2012,10
+Nepalese,Nepal,M,1,2013,10
+Nepalese,Nepal,M,1,2014,0
+Nepalese,Nepal,M,2,2007,35
+Nepalese,Nepal,M,2,2008,65
+Nepalese,Nepal,M,2,2009,55
+Nepalese,Nepal,M,2,2010,75
+Nepalese,Nepal,M,2,2011,80
+Nepalese,Nepal,M,2,2012,60
+Nepalese,Nepal,M,2,2013,55
+Nepalese,Nepal,M,2,2014,35
+Nepalese,Nepal,F,1,2007,10
+Nepalese,Nepal,F,1,2008,15
+Nepalese,Nepal,F,1,2009,10
+Nepalese,Nepal,F,1,2010,0
+Nepalese,Nepal,F,1,2011,5
+Nepalese,Nepal,F,1,2012,5
+Nepalese,Nepal,F,1,2013,0
+Nepalese,Nepal,F,1,2014,5
+Nepalese,Nepal,F,2,2007,15
+Nepalese,Nepal,F,2,2008,20
+Nepalese,Nepal,F,2,2009,15
+Nepalese,Nepal,F,2,2010,15
+Nepalese,Nepal,F,2,2011,40
+Nepalese,Nepal,F,2,2012,30
+Nepalese,Nepal,F,2,2013,10
+Nepalese,Nepal,F,2,2014,15
+Nigerian,Nigeria,M,1,2007,30
+Nigerian,Nigeria,M,1,2008,10
+Nigerian,Nigeria,M,1,2009,20
+Nigerian,Nigeria,M,1,2010,25
+Nigerian,Nigeria,M,1,2011,15
+Nigerian,Nigeria,M,1,2012,15
+Nigerian,Nigeria,M,1,2013,20
+Nigerian,Nigeria,M,1,2014,25
+Nigerian,Nigeria,M,2,2007,115
+Nigerian,Nigeria,M,2,2008,60
+Nigerian,Nigeria,M,2,2009,90
+Nigerian,Nigeria,M,2,2010,110
+Nigerian,Nigeria,M,2,2011,90
+Nigerian,Nigeria,M,2,2012,75
+Nigerian,Nigeria,M,2,2013,85
+Nigerian,Nigeria,M,2,2014,135
+Nigerian,Nigeria,F,1,2007,30
+Nigerian,Nigeria,F,1,2008,15
+Nigerian,Nigeria,F,1,2009,15
+Nigerian,Nigeria,F,1,2010,15
+Nigerian,Nigeria,F,1,2011,10
+Nigerian,Nigeria,F,1,2012,15
+Nigerian,Nigeria,F,1,2013,20
+Nigerian,Nigeria,F,1,2014,30
+Nigerian,Nigeria,F,2,2007,35
+Nigerian,Nigeria,F,2,2008,30
+Nigerian,Nigeria,F,2,2009,45
+Nigerian,Nigeria,F,2,2010,40
+Nigerian,Nigeria,F,2,2011,30
+Nigerian,Nigeria,F,2,2012,35
+Nigerian,Nigeria,F,2,2013,45
+Nigerian,Nigeria,F,2,2014,75
+"North Korean","North Korea",M,1,2007,0
+"North Korean","North Korea",M,1,2008,0
+"North Korean","North Korea",M,1,2009,0
+"North Korean","North Korea",M,1,2010,0
+"North Korean","North Korea",M,1,2011,0
+"North Korean","North Korea",M,1,2012,10
+"North Korean","North Korea",M,1,2013,20
+"North Korean","North Korea",M,1,2014,0
+"North Korean","North Korea",M,2,2007,0
+"North Korean","North Korea",M,2,2008,5
+"North Korean","North Korea",M,2,2009,5
+"North Korean","North Korea",M,2,2010,5
+"North Korean","North Korea",M,2,2011,5
+"North Korean","North Korea",M,2,2012,25
+"North Korean","North Korea",M,2,2013,50
+"North Korean","North Korea",M,2,2014,5
+"North Korean","North Korea",F,1,2007,0
+"North Korean","North Korea",F,1,2008,0
+"North Korean","North Korea",F,1,2009,0
+"North Korean","North Korea",F,1,2010,0
+"North Korean","North Korea",F,1,2011,0
+"North Korean","North Korea",F,1,2012,5
+"North Korean","North Korea",F,1,2013,15
+"North Korean","North Korea",F,1,2014,0
+"North Korean","North Korea",F,2,2007,0
+"North Korean","North Korea",F,2,2008,0
+"North Korean","North Korea",F,2,2009,0
+"North Korean","North Korea",F,2,2010,0
+"North Korean","North Korea",F,2,2011,5
+"North Korean","North Korea",F,2,2012,20
+"North Korean","North Korea",F,2,2013,55
+"North Korean","North Korea",F,2,2014,5
+Ukrainian,Ukraine,M,1,2007,0
+Ukrainian,Ukraine,M,1,2008,0
+Ukrainian,Ukraine,M,1,2009,0
+Ukrainian,Ukraine,M,1,2010,0
+Ukrainian,Ukraine,M,1,2011,0
+Ukrainian,Ukraine,M,1,2012,0
+Ukrainian,Ukraine,M,1,2013,0
+Ukrainian,Ukraine,M,1,2014,35
+Ukrainian,Ukraine,M,2,2007,10
+Ukrainian,Ukraine,M,2,2008,5
+Ukrainian,Ukraine,M,2,2009,10
+Ukrainian,Ukraine,M,2,2010,15
+Ukrainian,Ukraine,M,2,2011,25
+Ukrainian,Ukraine,M,2,2012,15
+Ukrainian,Ukraine,M,2,2013,25
+Ukrainian,Ukraine,M,2,2014,115
+Ukrainian,Ukraine,F,1,2007,0
+Ukrainian,Ukraine,F,1,2008,5
+Ukrainian,Ukraine,F,1,2009,0
+Ukrainian,Ukraine,F,1,2010,5
+Ukrainian,Ukraine,F,1,2011,5
+Ukrainian,Ukraine,F,1,2012,5
+Ukrainian,Ukraine,F,1,2013,0
+Ukrainian,Ukraine,F,1,2014,25
+Ukrainian,Ukraine,F,2,2007,5
+Ukrainian,Ukraine,F,2,2008,5
+Ukrainian,Ukraine,F,2,2009,5
+Ukrainian,Ukraine,F,2,2010,15
+Ukrainian,Ukraine,F,2,2011,15
+Ukrainian,Ukraine,F,2,2012,10
+Ukrainian,Ukraine,F,2,2013,10
+Ukrainian,Ukraine,F,2,2014,90
+Pakistani,Pakistan,M,1,2007,5
+Pakistani,Pakistan,M,1,2008,10
+Pakistani,Pakistan,M,1,2009,5
+Pakistani,Pakistan,M,1,2010,5
+Pakistani,Pakistan,M,1,2011,10
+Pakistani,Pakistan,M,1,2012,20
+Pakistani,Pakistan,M,1,2013,15
+Pakistani,Pakistan,M,1,2014,20
+Pakistani,Pakistan,M,2,2007,25
+Pakistani,Pakistan,M,2,2008,40
+Pakistani,Pakistan,M,2,2009,35
+Pakistani,Pakistan,M,2,2010,40
+Pakistani,Pakistan,M,2,2011,95
+Pakistani,Pakistan,M,2,2012,90
+Pakistani,Pakistan,M,2,2013,85
+Pakistani,Pakistan,M,2,2014,155
+Pakistani,Pakistan,F,1,2007,0
+Pakistani,Pakistan,F,1,2008,0
+Pakistani,Pakistan,F,1,2009,5
+Pakistani,Pakistan,F,1,2010,0
+Pakistani,Pakistan,F,1,2011,5
+Pakistani,Pakistan,F,1,2012,25
+Pakistani,Pakistan,F,1,2013,10
+Pakistani,Pakistan,F,1,2014,20
+Pakistani,Pakistan,F,2,2007,5
+Pakistani,Pakistan,F,2,2008,5
+Pakistani,Pakistan,F,2,2009,10
+Pakistani,Pakistan,F,2,2010,20
+Pakistani,Pakistan,F,2,2011,25
+Pakistani,Pakistan,F,2,2012,35
+Pakistani,Pakistan,F,2,2013,25
+Pakistani,Pakistan,F,2,2014,40
+Russian,Russia,M,1,2007,15
+Russian,Russia,M,1,2008,15
+Russian,Russia,M,1,2009,30
+Russian,Russia,M,1,2010,45
+Russian,Russia,M,1,2011,110
+Russian,Russia,M,1,2012,205
+Russian,Russia,M,1,2013,70
+Russian,Russia,M,1,2014,25
+Russian,Russia,M,2,2007,55
+Russian,Russia,M,2,2008,45
+Russian,Russia,M,2,2009,75
+Russian,Russia,M,2,2010,80
+Russian,Russia,M,2,2011,175
+Russian,Russia,M,2,2012,240
+Russian,Russia,M,2,2013,105
+Russian,Russia,M,2,2014,90
+Russian,Russia,F,1,2007,10
+Russian,Russia,F,1,2008,15
+Russian,Russia,F,1,2009,25
+Russian,Russia,F,1,2010,35
+Russian,Russia,F,1,2011,95
+Russian,Russia,F,1,2012,190
+Russian,Russia,F,1,2013,55
+Russian,Russia,F,1,2014,35
+Russian,Russia,F,2,2007,25
+Russian,Russia,F,2,2008,45
+Russian,Russia,F,2,2009,40
+Russian,Russia,F,2,2010,70
+Russian,Russia,F,2,2011,120
+Russian,Russia,F,2,2012,180
+Russian,Russia,F,2,2013,75
+Russian,Russia,F,2,2014,45
+"Citizen of Serbia",Serbia,M,1,2007,0
+"Citizen of Serbia",Serbia,M,1,2008,5
+"Citizen of Serbia",Serbia,M,1,2009,10
+"Citizen of Serbia",Serbia,M,1,2010,10
+"Citizen of Serbia",Serbia,M,1,2011,25
+"Citizen of Serbia",Serbia,M,1,2012,30
+"Citizen of Serbia",Serbia,M,1,2013,65
+"Citizen of Serbia",Serbia,M,1,2014,35
+"Citizen of Serbia",Serbia,M,2,2007,5
+"Citizen of Serbia",Serbia,M,2,2008,5
+"Citizen of Serbia",Serbia,M,2,2009,10
+"Citizen of Serbia",Serbia,M,2,2010,15
+"Citizen of Serbia",Serbia,M,2,2011,30
+"Citizen of Serbia",Serbia,M,2,2012,45
+"Citizen of Serbia",Serbia,M,2,2013,75
+"Citizen of Serbia",Serbia,M,2,2014,75
+"Citizen of Serbia",Serbia,F,1,2007,0
+"Citizen of Serbia",Serbia,F,1,2008,0
+"Citizen of Serbia",Serbia,F,1,2009,5
+"Citizen of Serbia",Serbia,F,1,2010,15
+"Citizen of Serbia",Serbia,F,1,2011,20
+"Citizen of Serbia",Serbia,F,1,2012,20
+"Citizen of Serbia",Serbia,F,1,2013,60
+"Citizen of Serbia",Serbia,F,1,2014,30
+"Citizen of Serbia",Serbia,F,2,2007,0
+"Citizen of Serbia",Serbia,F,2,2008,5
+"Citizen of Serbia",Serbia,F,2,2009,5
+"Citizen of Serbia",Serbia,F,2,2010,15
+"Citizen of Serbia",Serbia,F,2,2011,25
+"Citizen of Serbia",Serbia,F,2,2012,35
+"Citizen of Serbia",Serbia,F,2,2013,65
+"Citizen of Serbia",Serbia,F,2,2014,55
+"Sierra Leonan","Sierra Leone",M,1,2007,30
+"Sierra Leonan","Sierra Leone",M,1,2008,30
+"Sierra Leonan","Sierra Leone",M,1,2009,20
+"Sierra Leonan","Sierra Leone",M,1,2010,15
+"Sierra Leonan","Sierra Leone",M,1,2011,15
+"Sierra Leonan","Sierra Leone",M,1,2012,5
+"Sierra Leonan","Sierra Leone",M,1,2013,10
+"Sierra Leonan","Sierra Leone",M,1,2014,10
+"Sierra Leonan","Sierra Leone",M,2,2007,90
+"Sierra Leonan","Sierra Leone",M,2,2008,125
+"Sierra Leonan","Sierra Leone",M,2,2009,80
+"Sierra Leonan","Sierra Leone",M,2,2010,50
+"Sierra Leonan","Sierra Leone",M,2,2011,90
+"Sierra Leonan","Sierra Leone",M,2,2012,60
+"Sierra Leonan","Sierra Leone",M,2,2013,30
+"Sierra Leonan","Sierra Leone",M,2,2014,50
+"Sierra Leonan","Sierra Leone",F,1,2007,45
+"Sierra Leonan","Sierra Leone",F,1,2008,25
+"Sierra Leonan","Sierra Leone",F,1,2009,35
+"Sierra Leonan","Sierra Leone",F,1,2010,25
+"Sierra Leonan","Sierra Leone",F,1,2011,25
+"Sierra Leonan","Sierra Leone",F,1,2012,20
+"Sierra Leonan","Sierra Leone",F,1,2013,20
+"Sierra Leonan","Sierra Leone",F,1,2014,15
+"Sierra Leonan","Sierra Leone",F,2,2007,65
+"Sierra Leonan","Sierra Leone",F,2,2008,50
+"Sierra Leonan","Sierra Leone",F,2,2009,50
+"Sierra Leonan","Sierra Leone",F,2,2010,45
+"Sierra Leonan","Sierra Leone",F,2,2011,40
+"Sierra Leonan","Sierra Leone",F,2,2012,30
+"Sierra Leonan","Sierra Leone",F,2,2013,40
+"Sierra Leonan","Sierra Leone",F,2,2014,50
+Sudanese,Sudan,M,1,2007,10
+Sudanese,Sudan,M,1,2008,10
+Sudanese,Sudan,M,1,2009,15
+Sudanese,Sudan,M,1,2010,25
+Sudanese,Sudan,M,1,2011,25
+Sudanese,Sudan,M,1,2012,15
+Sudanese,Sudan,M,1,2013,10
+Sudanese,Sudan,M,1,2014,15
+Sudanese,Sudan,M,2,2007,45
+Sudanese,Sudan,M,2,2008,60
+Sudanese,Sudan,M,2,2009,100
+Sudanese,Sudan,M,2,2010,120
+Sudanese,Sudan,M,2,2011,105
+Sudanese,Sudan,M,2,2012,110
+Sudanese,Sudan,M,2,2013,90
+Sudanese,Sudan,M,2,2014,170
+Sudanese,Sudan,F,1,2007,10
+Sudanese,Sudan,F,1,2008,5
+Sudanese,Sudan,F,1,2009,10
+Sudanese,Sudan,F,1,2010,10
+Sudanese,Sudan,F,1,2011,15
+Sudanese,Sudan,F,1,2012,15
+Sudanese,Sudan,F,1,2013,20
+Sudanese,Sudan,F,1,2014,10
+Sudanese,Sudan,F,2,2007,30
+Sudanese,Sudan,F,2,2008,25
+Sudanese,Sudan,F,2,2009,15
+Sudanese,Sudan,F,2,2010,30
+Sudanese,Sudan,F,2,2011,45
+Sudanese,Sudan,F,2,2012,40
+Sudanese,Sudan,F,2,2013,30
+Sudanese,Sudan,F,2,2014,30
+Somali,Somalia,M,1,2007,240
+Somali,Somalia,M,1,2008,680
+Somali,Somalia,M,1,2009,1060
+Somali,Somalia,M,1,2010,1095
+Somali,Somalia,M,1,2011,330
+Somali,Somalia,M,1,2012,140
+Somali,Somalia,M,1,2013,315
+Somali,Somalia,M,1,2014,120
+Somali,Somalia,M,2,2007,1020
+Somali,Somalia,M,2,2008,1590
+Somali,Somalia,M,2,2009,2910
+Somali,Somalia,M,2,2010,725
+Somali,Somalia,M,2,2011,880
+Somali,Somalia,M,2,2012,595
+Somali,Somalia,M,2,2013,280
+Somali,Somalia,M,2,2014,240
+Somali,Somalia,F,1,2007,175
+Somali,Somalia,F,1,2008,545
+Somali,Somalia,F,1,2009,780
+Somali,Somalia,F,1,2010,1030
+Somali,Somalia,F,1,2011,295
+Somali,Somalia,F,1,2012,160
+Somali,Somalia,F,1,2013,335
+Somali,Somalia,F,1,2014,95
+Somali,Somalia,F,2,2007,570
+Somali,Somalia,F,2,2008,1140
+Somali,Somalia,F,2,2009,1280
+Somali,Somalia,F,2,2010,820
+Somali,Somalia,F,2,2011,485
+Somali,Somalia,F,2,2012,325
+Somali,Somalia,F,2,2013,280
+Somali,Somalia,F,2,2014,140
+"Sri Lankan","Sri Lanka",M,1,2007,10
+"Sri Lankan","Sri Lanka",M,1,2008,10
+"Sri Lankan","Sri Lanka",M,1,2009,25
+"Sri Lankan","Sri Lanka",M,1,2010,30
+"Sri Lankan","Sri Lanka",M,1,2011,15
+"Sri Lankan","Sri Lanka",M,1,2012,25
+"Sri Lankan","Sri Lanka",M,1,2013,15
+"Sri Lankan","Sri Lanka",M,1,2014,0
+"Sri Lankan","Sri Lanka",M,2,2007,120
+"Sri Lankan","Sri Lanka",M,2,2008,165
+"Sri Lankan","Sri Lanka",M,2,2009,130
+"Sri Lankan","Sri Lanka",M,2,2010,140
+"Sri Lankan","Sri Lanka",M,2,2011,115
+"Sri Lankan","Sri Lanka",M,2,2012,100
+"Sri Lankan","Sri Lanka",M,2,2013,105
+"Sri Lankan","Sri Lanka",M,2,2014,75
+"Sri Lankan","Sri Lanka",F,1,2007,10
+"Sri Lankan","Sri Lanka",F,1,2008,5
+"Sri Lankan","Sri Lanka",F,1,2009,15
+"Sri Lankan","Sri Lanka",F,1,2010,20
+"Sri Lankan","Sri Lanka",F,1,2011,15
+"Sri Lankan","Sri Lanka",F,1,2012,15
+"Sri Lankan","Sri Lanka",F,1,2013,10
+"Sri Lankan","Sri Lanka",F,1,2014,5
+"Sri Lankan","Sri Lanka",F,2,2007,20
+"Sri Lankan","Sri Lanka",F,2,2008,45
+"Sri Lankan","Sri Lanka",F,2,2009,50
+"Sri Lankan","Sri Lanka",F,2,2010,45
+"Sri Lankan","Sri Lanka",F,2,2011,40
+"Sri Lankan","Sri Lanka",F,2,2012,35
+"Sri Lankan","Sri Lanka",F,2,2013,45
+"Sri Lankan","Sri Lanka",F,2,2014,25
+Syrian,Syria,M,1,2007,15
+Syrian,Syria,M,1,2008,10
+Syrian,Syria,M,1,2009,15
+Syrian,Syria,M,1,2010,15
+Syrian,Syria,M,1,2011,20
+Syrian,Syria,M,1,2012,65
+Syrian,Syria,M,1,2013,280
+Syrian,Syria,M,1,2014,980
+Syrian,Syria,M,2,2007,40
+Syrian,Syria,M,2,2008,50
+Syrian,Syria,M,2,2009,85
+Syrian,Syria,M,2,2010,85
+Syrian,Syria,M,2,2011,120
+Syrian,Syria,M,2,2012,300
+Syrian,Syria,M,2,2013,1240
+Syrian,Syria,M,2,2014,5970
+Syrian,Syria,F,1,2007,10
+Syrian,Syria,F,1,2008,0
+Syrian,Syria,F,1,2009,10
+Syrian,Syria,F,1,2010,10
+Syrian,Syria,F,1,2011,10
+Syrian,Syria,F,1,2012,55
+Syrian,Syria,F,1,2013,230
+Syrian,Syria,F,1,2014,600
+Syrian,Syria,F,2,2007,25
+Syrian,Syria,F,2,2008,25
+Syrian,Syria,F,2,2009,20
+Syrian,Syria,F,2,2010,40
+Syrian,Syria,F,2,2011,45
+Syrian,Syria,F,2,2012,150
+Syrian,Syria,F,2,2013,510
+Syrian,Syria,F,2,2014,1240
+Turkish,Turkey,M,1,2007,10
+Turkish,Turkey,M,1,2008,5
+Turkish,Turkey,M,1,2009,5
+Turkish,Turkey,M,1,2010,10
+Turkish,Turkey,M,1,2011,10
+Turkish,Turkey,M,1,2012,10
+Turkish,Turkey,M,1,2013,5
+Turkish,Turkey,M,1,2014,10
+Turkish,Turkey,M,2,2007,100
+Turkish,Turkey,M,2,2008,95
+Turkish,Turkey,M,2,2009,65
+Turkish,Turkey,M,2,2010,65
+Turkish,Turkey,M,2,2011,75
+Turkish,Turkey,M,2,2012,65
+Turkish,Turkey,M,2,2013,45
+Turkish,Turkey,M,2,2014,35
+Turkish,Turkey,F,1,2007,10
+Turkish,Turkey,F,1,2008,5
+Turkish,Turkey,F,1,2009,5
+Turkish,Turkey,F,1,2010,5
+Turkish,Turkey,F,1,2011,10
+Turkish,Turkey,F,1,2012,10
+Turkish,Turkey,F,1,2013,5
+Turkish,Turkey,F,1,2014,10
+Turkish,Turkey,F,2,2007,25
+Turkish,Turkey,F,2,2008,10
+Turkish,Turkey,F,2,2009,10
+Turkish,Turkey,F,2,2010,20
+Turkish,Turkey,F,2,2011,15
+Turkish,Turkey,F,2,2012,15
+Turkish,Turkey,F,2,2013,10
+Turkish,Turkey,F,2,2014,10
+Ugandan,Uganda,M,1,2007,5
+Ugandan,Uganda,M,1,2008,0
+Ugandan,Uganda,M,1,2009,0
+Ugandan,Uganda,M,1,2010,5
+Ugandan,Uganda,M,1,2011,0
+Ugandan,Uganda,M,1,2012,10
+Ugandan,Uganda,M,1,2013,20
+Ugandan,Uganda,M,1,2014,5
+Ugandan,Uganda,M,2,2007,10
+Ugandan,Uganda,M,2,2008,10
+Ugandan,Uganda,M,2,2009,40
+Ugandan,Uganda,M,2,2010,35
+Ugandan,Uganda,M,2,2011,50
+Ugandan,Uganda,M,2,2012,55
+Ugandan,Uganda,M,2,2013,60
+Ugandan,Uganda,M,2,2014,80
+Ugandan,Uganda,F,1,2007,5
+Ugandan,Uganda,F,1,2008,10
+Ugandan,Uganda,F,1,2009,5
+Ugandan,Uganda,F,1,2010,5
+Ugandan,Uganda,F,1,2011,5
+Ugandan,Uganda,F,1,2012,5
+Ugandan,Uganda,F,1,2013,15
+Ugandan,Uganda,F,1,2014,10
+Ugandan,Uganda,F,2,2007,10
+Ugandan,Uganda,F,2,2008,10
+Ugandan,Uganda,F,2,2009,20
+Ugandan,Uganda,F,2,2010,40
+Ugandan,Uganda,F,2,2011,55
+Ugandan,Uganda,F,2,2012,55
+Ugandan,Uganda,F,2,2013,60
+Ugandan,Uganda,F,2,2014,70
+Belorussian,Belarus,M,1,2007,0
+Belorussian,Belarus,M,1,2008,0
+Belorussian,Belarus,M,1,2009,5
+Belorussian,Belarus,M,1,2010,15
+Belorussian,Belarus,M,1,2011,25
+Belorussian,Belarus,M,1,2012,5
+Belorussian,Belarus,M,1,2013,5
+Belorussian,Belarus,M,1,2014,0
+Belorussian,Belarus,M,2,2007,10
+Belorussian,Belarus,M,2,2008,5
+Belorussian,Belarus,M,2,2009,25
+Belorussian,Belarus,M,2,2010,40
+Belorussian,Belarus,M,2,2011,205
+Belorussian,Belarus,M,2,2012,40
+Belorussian,Belarus,M,2,2013,40
+Belorussian,Belarus,M,2,2014,40
+Belorussian,Belarus,F,1,2007,5
+Belorussian,Belarus,F,1,2008,0
+Belorussian,Belarus,F,1,2009,5
+Belorussian,Belarus,F,1,2010,5
+Belorussian,Belarus,F,1,2011,5
+Belorussian,Belarus,F,1,2012,5
+Belorussian,Belarus,F,1,2013,5
+Belorussian,Belarus,F,1,2014,0
+Belorussian,Belarus,F,2,2007,5
+Belorussian,Belarus,F,2,2008,0
+Belorussian,Belarus,F,2,2009,5
+Belorussian,Belarus,F,2,2010,10
+Belorussian,Belarus,F,2,2011,35
+Belorussian,Belarus,F,2,2012,15
+Belorussian,Belarus,F,2,2013,20
+Belorussian,Belarus,F,2,2014,5
