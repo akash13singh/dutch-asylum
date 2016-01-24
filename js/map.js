@@ -8,9 +8,9 @@ var zoom = d3.behavior.zoom()
 var width = document.getElementById('container').offsetWidth;
 var height = width / 2;
 
-var topo,projection,path,svg,g;
+var topo,projection,path,svg,g,asylum;
 
-var graticule = d3.geo.graticule();
+//var graticule = d3.geo.graticule();
 
 var tooltip = d3.select("#container").append("div").attr("class", "tooltip hidden");
 
@@ -34,12 +34,27 @@ function setup(width,height){
 
 }
 
-d3.json("data/world-topo-min.json", function(error, world) {
+queue().defer(d3.json, "data/world-topo-min.json")
+	.defer(d3.csv, "data/dutch.csv")
+    .await(ready);
+
+function ready(error,world,asylumRequests){
+	var countries = topojson.feature(world, world.objects.countries).features;
+    topo = countries;
+    asylum = asylumRequests
+    console.log(asylum[0]);
+    console.log(asylum[1]);
+    console.log(asylum[2]);
+    console.log(asylum[3]);
+    draw(topo);
+}
+    
+/*d3.json("data/world-topo-min.json", function(error, world) {
   var countries = topojson.feature(world, world.objects.countries).features;
   topo = countries;
   draw(topo);
 
-});
+});*/
 
 
 function draw(topo) {
@@ -86,13 +101,13 @@ function draw(topo) {
 
 
   //EXAMPLE: adding some capitals from external CSV file
-  d3.csv("data/country-capitals.csv", function(err, capitals) {
+  /*d3.csv("data/country-capitals.csv", function(err, capitals) {
 
     capitals.forEach(function(i){
       addpoint(i.CapitalLongitude, i.CapitalLatitude, i.CapitalName );
     });
 
-  });
+  });*/
 
 }
 
