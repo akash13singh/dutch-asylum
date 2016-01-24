@@ -1,0 +1,26 @@
+{ Afghanistan : { 
+				 Citizenship : "Afghan",
+				 2007 : {
+				 		 M : { 1 : <below_18>,
+				 		 	   2 : <above_18>
+				 			  },
+				 		 F : { 1 : <below_18>,
+				 		 	   2 : <above_18>
+				 			  },
+				 		 Total : 	  
+				 	     },
+				  2008 : {
+				  		 },
+				  .
+				  .
+				  .
+				 },
+  Thailand : {
+              
+             },
+  India : {
+  
+  
+  		  }
+}  		  
+				  
